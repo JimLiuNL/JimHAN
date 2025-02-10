@@ -9,3 +9,5 @@ This is a text file.
 
 The line above this line is empty.
 newline
+
+add new line
